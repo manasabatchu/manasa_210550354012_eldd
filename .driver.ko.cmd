@@ -1,0 +1,1 @@
+cmd_/home/manasa/eldd_exam/program1/driver.ko := ld -r -m elf_x86_64  --build-id=sha1  -T scripts/module.lds -o /home/manasa/eldd_exam/program1/driver.ko /home/manasa/eldd_exam/program1/driver.o /home/manasa/eldd_exam/program1/driver.mod.o;  true
